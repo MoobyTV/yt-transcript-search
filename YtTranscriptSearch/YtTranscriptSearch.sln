@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YtTranscriptSearch", "YtTranscriptSearch.csproj", "{47B1B47C-A169-43AF-A456-25A66247DBC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YtTranscriptSearch.Shared", "..\YtTranscriptSearch.Shared\YtTranscriptSearch.Shared.csproj", "{51CD3230-906A-4C0C-922E-87DC59E5B617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47B1B47C-A169-43AF-A456-25A66247DBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B1B47C-A169-43AF-A456-25A66247DBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B1B47C-A169-43AF-A456-25A66247DBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B1B47C-A169-43AF-A456-25A66247DBC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CD3230-906A-4C0C-922E-87DC59E5B617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CD3230-906A-4C0C-922E-87DC59E5B617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CD3230-906A-4C0C-922E-87DC59E5B617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CD3230-906A-4C0C-922E-87DC59E5B617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4598216-2338-41C6-B25C-3A161D148520}
+	EndGlobalSection
+EndGlobal
